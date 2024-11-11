@@ -1,5 +1,6 @@
-<h1><b>Online Food Ordering System</b></h1>h1>
-<h2>>Welcome to the Online Food Ordering System! This project is designed to streamline the process of ordering food from various restaurants, allowing users to browse menus, place orders, and manage their accounts all in one place.</h2>
+<h1><b>Online Food Ordering System</b></h1>
+<h2>Welcome to the Online Food Ordering System! This project is designed to streamline the process of ordering food from various restaurants, allowing users to browse menus, place orders, and manage their accounts all in one place.</h2>
+
 <h3>Usage<br></h3>
 User Registration: Create an account by providing the required information.<br>
 Browse Restaurants: Explore different restaurants and their menus.<br>
@@ -19,6 +20,7 @@ Open a pull request.<br>
 Contact
 For any inquiries or feedback, please reach out to the project maintainer:
 <br>
+
 Name: Rishabh <br>
 Email: rishabhpawar521@gmail.com<br>
 GitHub: Rishabh001pawar<br>
