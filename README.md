@@ -26,16 +26,13 @@ Database: MongoDB (or your preferred database)
 Authentication: JWT (JSON Web Tokens)
 Payment Processing: Stripe API (or another payment gateway)
 Deployment: Heroku, Vercel, or any cloud service provider
-Installation
-To get started with the Online Food Ordering System, follow these steps:
-
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
 For any inquiries or feedback, please reach out to the project maintainer:
-
-Name: Rishabh
-Email: rishabhpawar521@gmail.com
-GitHub: Rishabh001pawar
+<br>
+Name: Rishabh <br>
+Email: rishabhpawar521@gmail.com<br>
+GitHub: Rishabh001pawar<br>
 Thank you for your interest in the Online Food Ordering System! We hope you find it useful and enjoyable to work with.
